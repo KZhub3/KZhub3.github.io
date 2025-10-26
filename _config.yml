@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.JPG"
+  name             : "Kuangyi Zhang (张旷怡）"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student of Peking University"
+  location         : "Beijing"
+  employer         : "Peking University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kuangyizhang@hsc.pku.edu.cn" 
 
   # Academic websites
   academia         : # URL
