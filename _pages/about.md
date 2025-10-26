@@ -1,18 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: # "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Kuangyi joined the Department of Cardiology, Peking University Third Hospital at 2025 as a first-year PhD student under the supervision of Professor Ming Xu. Her research interest focuses on using multi-modal data integration and deep learning methods in understanding the relationship and interactions between cardial fat and heart.
+Kuangyi joined the Department of Cardiology, Peking University Third Hospital at 2025 as a first-year PhD student under the supervision of Professor Ming Xu. 
 
-
-
-
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Her research interest focuses on using multi-modal data integration and deep learning methods in understanding the relationship and interactions between cardial fat and heart.
 
 Create content & metadata
 ------
