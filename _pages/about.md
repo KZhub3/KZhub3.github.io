@@ -13,7 +13,7 @@ Her research interest focuses on using multi-modal data and deep learning method
 
 Working Experience
 ------
-- 2024.10 - 2025.09   **Medical Statistician (in cardiovascular precision medicine)**
+- 2024.10 - 2025.09   **Medical Statistician (in Cardiovascular Precision Medicine)**
 
   Nuffield Department of Population Health, University of Oxford, UK
 
