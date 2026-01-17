@@ -9,19 +9,19 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /#publications
 
   - title: "Portfolio"
-    url: /portfolio/
-        
+    url: /#portfolio
+
   - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /#blog-posts
+
   - title: "CV"
-    url: /cv/
-    
+    url: /#cv
+
   # - title: "CV"
   #   url: /cv-json/
-    
+
   - title: "Guide"
-    url: /markdown/
+    url: /#guide
